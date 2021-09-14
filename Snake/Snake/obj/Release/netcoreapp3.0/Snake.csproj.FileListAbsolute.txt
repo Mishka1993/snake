@@ -1,0 +1,4 @@
+D:\Gb\Snake\Snake\Snake\obj\Release\netcoreapp3.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gb\Snake\Snake\Snake\obj\Release\netcoreapp3.0\Snake.AssemblyInfoInputs.cache
+D:\Gb\Snake\Snake\Snake\obj\Release\netcoreapp3.0\Snake.AssemblyInfo.cs
+D:\Gb\Snake\Snake\Snake\obj\Release\netcoreapp3.0\Snake.csproj.CoreCompileInputs.cache
