@@ -57,6 +57,6 @@ namespace Snake
                     direction = Direction.Down;
                 }
             }
-        }
     }
 }
+

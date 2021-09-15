@@ -2,3 +2,12 @@ D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.GeneratedMSBuildEditorConf
 D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.AssemblyInfoInputs.cache
 D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.AssemblyInfo.cs
 D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.csproj.CoreCompileInputs.cache
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.exe
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.deps.json
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.runtimeconfig.json
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.runtimeconfig.dev.json
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.dll
+D:\Gb\Snake\Snake\Snake\bin\Debug\netcoreapp3.0\Snake.pdb
+D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.dll
+D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.pdb
+D:\Gb\Snake\Snake\Snake\obj\Debug\netcoreapp3.0\Snake.genruntimeconfig.cache
